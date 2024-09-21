@@ -1,0 +1,4743 @@
+fileFormatVersion: 2
+guid: 7811212f88f906b4ead86d2fc9e7abd0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1792
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa426149b00489a4485f9c7ed1e95afd
+      internalID: 532884289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1792
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c67d81986033544587ef3afe770fcb4
+      internalID: 1444635217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1792
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5555690f836ad8d4ebc86424d13c2bce
+      internalID: -43066254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1792
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26090913184dd1142b450df856980198
+      internalID: -978474932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1792
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d69303e3742630469e77cb4bb3aabac
+      internalID: 1766270401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1792
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787a86c4a1f31e441adeaf2698e424e0
+      internalID: -1384395787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1792
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2bd260cba490642b312617b790bc9d
+      internalID: 370587233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1728
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375ba6ee4d49f4c47962e980ccd8563d
+      internalID: 619433276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1728
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba9c5c4f576e3046b9e6183c0b105be
+      internalID: 1866394879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1728
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b18a988b7d9f9e4badfa33d0af9b1a3
+      internalID: 1911752383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1728
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5606c0d85a298204984f7482afcaf818
+      internalID: 1563050467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1728
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcceb50c9e39844429be71f400dbc865
+      internalID: 2113972842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1728
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557708cd235b09b47967fb791d56dff5
+      internalID: -1503260287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1728
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e15f00a35c4efb438a4473b35276644
+      internalID: 640497850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1664
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b0ee889d48f8b41891b79a5ab7fdfb
+      internalID: -618421272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1664
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea64018d0d533c489caba48edbec819
+      internalID: 235899297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1664
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa145ed39ef49d41bc17d03c9537792
+      internalID: -1286049428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1664
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509c5d9784d92b34499add5f3298484b
+      internalID: 247492046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1664
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847275c769e1c3f47ab9748d21e64715
+      internalID: 1668183327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1664
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1253a5f613af25540a7b0da0975baac1
+      internalID: -59588827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1664
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e14882136f8514eaac17ca43a28ae3
+      internalID: 1952432192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1600
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169401126418d0a40b9e9640ba755803
+      internalID: 1792601784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1600
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5288c60c2c7f2644930135a190af970
+      internalID: 1043395867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1600
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6fed863dfb76c459cd90996da903ce
+      internalID: 1953666839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1600
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf47b57ba3ef5a4c8e1524fd7a8d306
+      internalID: -678597891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1600
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa64366b655c7b4ea93ab8376af7524
+      internalID: 550442428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1600
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac1687ae3c42894fb7af249dd74d39b
+      internalID: -1814559371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1600
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccb99ba07cffeb418543a2158d7b787
+      internalID: -2067521086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1536
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37aa4d689ff8f8e4aa04d5b37f3f015e
+      internalID: -1785966661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1536
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f732eb095a92274db29d39b26d1a778
+      internalID: -1575551415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1536
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9774788209277b4ba0b5fb65540827a
+      internalID: -1861113173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1536
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67397a2f7d5a77a47abc59c94e695295
+      internalID: -1341038738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1536
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5611ce13e5312aa478a415a40ee94f44
+      internalID: 712928132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1536
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3cf61122674ada41b9785ec3ee324bd
+      internalID: 1663344536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1536
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ac2d3b01f2a024ebdd51d6e458fce8
+      internalID: 1142364612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1536
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e286e251a5e3dd4382a48c32d397df1
+      internalID: 376838785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1472
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf6a23915c5db2448273f8ac20d4efa
+      internalID: 2084774412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1472
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb61bdb52eee89a44ba5f484ed681ac3
+      internalID: -1167179746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1472
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2428fd70e2e6c494199aadcbb8f7f0c7
+      internalID: 625568506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1472
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b8219356b833843afd55a953b7378a
+      internalID: 769383680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1472
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c3863fb6c0d8f4e96e36ed5857f99f
+      internalID: -975188907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1472
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efdc549befae8144b8497b432b8fa23
+      internalID: -1792347146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1472
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490ea8e828f5e3147ba20fa18bdcea2d
+      internalID: -1561955683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1472
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752832635c0730248b81ab40f0e1b897
+      internalID: 623700505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1408
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27833260535c3e4cb4efcf1f9486eee
+      internalID: -2125285931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1408
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1db77c2a8dd1ac42a3000d104f59a4b
+      internalID: -1044271150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1408
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afae535433da62439133e2935c25ca5
+      internalID: 1277753603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1409
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceec79077150bfd489aca75ab61b0ff6
+      internalID: 1934671456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1409
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e932c3b3116717c408b8e4929ae1453b
+      internalID: -1948203514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1408
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a86c088573b1c94fbae8a844ac68e1d
+      internalID: 388629239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1409
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c86aea705db41b48be1e05db26e9bae
+      internalID: 1427101529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1409
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be94c0b7fdc37c5459b9c42b8c077681
+      internalID: -1738869143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1344
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77431ec7659d5f41ada3c85f34c1dfe
+      internalID: -2086449948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1344
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ada41b587cf07c4d82b7d15599e68a1
+      internalID: -1449061187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1344
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7d4be3ff00c464687011ee8e260d8d
+      internalID: -89235353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1344
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456384b3dfe992b439a19970104aed1b
+      internalID: 1325775103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1344
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f304aab78430d41a9e5d480a8fe9aa
+      internalID: -549995362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1344
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee97b4e4f2ffecb4fbfbe5f4f94d8c8d
+      internalID: -488707955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1344
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263d723f53a321a489cc0ac2e6645831
+      internalID: -464026831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1344
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f29d61facb8b041aa42d4814bbd0db
+      internalID: -1890324157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1280
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d64d623b326c541a500c953d3ce9c8
+      internalID: -1374900602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1280
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f100efdc8adbe5448b2afcca92854d08
+      internalID: -1212551630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1280
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ec451e5b7a989498736bdbcdbdb59a
+      internalID: 689069056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1280
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c12a7dde1240345a45e748b6ae2574
+      internalID: 954497359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1280
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee6e38f823a35b46b4bedaf1d3171d9
+      internalID: -1098744680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1280
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf526bf7e214c84ca2653d57873174a
+      internalID: 714094920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1280
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c26e55a21b3f949be5bd8d1442959b
+      internalID: -679951391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1280
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff68de3928b3ee442b2ca4d98528d8df
+      internalID: 446358043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1280
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93787e34cc1215140a90b4974b244084
+      internalID: -1734082811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1216
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d22ae70fb790849bad732d39ee67f4
+      internalID: -1051385584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1216
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c926f84b1c72604ba12543e143800a0
+      internalID: 243606510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1216
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565caa2722792874eb7a07f35c6790eb
+      internalID: 1276131712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1216
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c086271c93d174e9d5e0d78afb2ea5
+      internalID: -1380377700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1216
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07534e1ea8459784d9af896ba821eeb7
+      internalID: 911821737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1216
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3a62f961f91404e8b861ffe1dc9c63
+      internalID: -1610919206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1216
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b07ca81700a9d48ae1c6163d3a0a46
+      internalID: -1266710221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1216
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25358032a09d0d4b974117a3a62baf5
+      internalID: -111456771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1216
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a7c06741c5f5848ae1dd0f813868e4
+      internalID: 1669313963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1152
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7a11a1761607f4591f259781ed0be2
+      internalID: 1319987068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1152
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2b6eb0c34511f42a42816faefb6bf2
+      internalID: -1251200030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1152
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1edfbdd0b2dd4439f1f19f59648e1b
+      internalID: -61940609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1152
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1e24f79688abc4eb5321168720e6bd
+      internalID: 1995287578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1152
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdc070caefd82a4ebbe15031764de01
+      internalID: -784936577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1152
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e96e08d94428246b28ce8865c2b0fc
+      internalID: -1590245384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1152
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a12682cb53b494ab119f83815a6186
+      internalID: -1098974764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1152
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480283d71e9846d4589b9bbc82ad28cf
+      internalID: 451912044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1152
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8074085b2e2c642a2b349a6a78bfc7
+      internalID: 1662890711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1088
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310899fc2431b5541acf6d5ce6b51c67
+      internalID: -1922590658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1088
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27cc7b983575c94187763306dc4fe40
+      internalID: -1083201689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1088
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43077af28dbb074dad2b6251fcd1a95
+      internalID: 1158651256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1088
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6010bf5a6da39b444abf81ddc3dc9761
+      internalID: -1997596080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1088
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fc4acde07a3d0449f79747defea661
+      internalID: 1368533616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1088
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b3bc2e734317b4cbb2c1f281278f63
+      internalID: -1008994744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1088
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b2122737a86ef43a93776a1725c18e
+      internalID: 1028361300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1088
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a143355196361d44a1067c36cc93d7e
+      internalID: -1418486867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1088
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ace6a10514caaf419ec1fafc8c9092f
+      internalID: 1498238170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1024
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa6f88ccfc2f9648b7f681bd7ec1386
+      internalID: 1599334097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1024
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d620f2363424ea408ff011aa6094f75
+      internalID: -792966263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1024
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2971cbecf4eea94c9930df1e4e19d0b
+      internalID: 360997858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1024
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956b0404f03ea694cbc071c0a2f2926c
+      internalID: 366757132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1024
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bf5eb97ffe6644fa85bce7f9466150
+      internalID: -596642563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1024
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ffe45736d3f9e4ea5e2564d0c805b0
+      internalID: 1596082492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 960
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b27542220d11cf4c87e319626f2a9e1
+      internalID: 723438326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 960
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97064d5929ae272479574b5201e74725
+      internalID: 1614671420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 960
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50352c1ca9495b46a0e6ad89662b016
+      internalID: 595572024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 960
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ba6cd14061ccf47af3ffa7c97cc1d9
+      internalID: 260246716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 960
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f977ad0c77b1d544a137a166843c5a7
+      internalID: -1910015387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 960
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0894f7a3eb5ad304a9c6627e1d8f33b4
+      internalID: -1748820643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_108
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 896
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d47a641e8ff134ebca1dfd266732c2
+      internalID: -1376147259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_109
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 896
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa3228340d4a7348a12bccb6a1f27ba
+      internalID: 813969164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_110
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 896
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17b631d7ac35b14aa115c9bdca4ccef
+      internalID: -1598705999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_111
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 896
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464c71c111f2a0c44a48b0ee7a3c045d
+      internalID: 398696454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_112
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 896
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a93b161391e62243a4a3e16bd36fc7d
+      internalID: -797934950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_113
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 896
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00635f858c4c33c45bbcb4dcae1633e6
+      internalID: 1579473811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_114
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 832
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d2484d8219a5b4382166d79300de23
+      internalID: 1994440572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_115
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 832
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e880b2dc61c720448fd6f9b7ed16b9a
+      internalID: -1713227000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_116
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 832
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7b0b5593086d3438ca87b4ee0db6dd
+      internalID: 1837282198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_117
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 832
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3fb444278763a45a3de702a1209300
+      internalID: -727351175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_118
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 832
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef083d02ce345034ba3a3021d765780e
+      internalID: -1616158744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_119
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 832
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88ad897227dfcd4d990f7b4b1d845f0
+      internalID: 1030237407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_120
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 768
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69cf340501e2a14eb75b23a1ac5a5da
+      internalID: -1337966053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_121
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 768
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247b3c41949bed640acec942a5a72c24
+      internalID: -1938237391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_122
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 768
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485b3885c9de33148bd0b227acc0fbfd
+      internalID: -1535493318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_123
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 768
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b920deeb3df84f4f8cb4ff47283685a
+      internalID: -1928483564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_124
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 768
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24bb4cad732b6c4fb14c42c753d846e
+      internalID: -708368186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_125
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 768
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b7d926636c5c64f8310ab90159adf6
+      internalID: 1636651601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_126
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 768
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2625d0beb0bf12c4398a13d53307ab54
+      internalID: 630471269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_127
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 768
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c135d7576cef11247b79c16b2f26cae4
+      internalID: -953821597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_128
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 768
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4272ab43fb38de94cb47d8dab30ed1ac
+      internalID: 2045755020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_129
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 768
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b2990c5e9f11c4ca95612290d9cd9d
+      internalID: -535677044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_130
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 768
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5950e95f69c09c34bb345f500acfa3f3
+      internalID: 486045120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_131
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 768
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320e1d9e08f971c48851b63da2a7df81
+      internalID: -1751166115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_132
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 768
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7948dc47efdbc849ba1ff04145bf26a
+      internalID: 190622053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_133
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 704
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0337b75fe29b81d45a2419d6c8c291bc
+      internalID: -1881275381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_134
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 704
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f76f73ee07af147b58c3d20b4d78d2
+      internalID: -1540316063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_135
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 704
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbba101762533d741b62ab22e4210773
+      internalID: 233517038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_136
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 704
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc0b04695b20bd42989de8a176aa47a
+      internalID: -241421843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_137
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 704
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b80ad3f776dc94c86ad19397a7768f
+      internalID: 312601196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_138
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 704
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd88b84505535f4ba9cbe7268aa838c
+      internalID: 351098659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_139
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 704
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bad4104b95b4c042a6daa720eb79804
+      internalID: 793485844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_140
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 704
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0110fb734b13fc145993b79c87ef8519
+      internalID: -2040969099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_141
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 704
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766b4391f925a924cb2b1a3eac032a26
+      internalID: -824018558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_142
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 704
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43157a9b9d9e5604088564897f32bfe0
+      internalID: 1426780402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_143
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 704
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6043b675729fe43be73037efc043ba
+      internalID: -522809871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_144
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 704
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e04f9fe567cc8c44a752ebde5400ccf
+      internalID: 147230363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_145
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 704
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ae9fced9de2424a8105ddf6db8a00a
+      internalID: 111950622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_146
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 640
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6140e9728ce1ec43910e12566468b37
+      internalID: -84735168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_147
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 640
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b5ce56647ca5748b511979d3640e6d
+      internalID: 124105251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_148
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 640
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b348372b643d2f14a9eb19d4447e2e83
+      internalID: 125278775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_149
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 640
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f77a6a73663c94f82f59c7b52f2b19
+      internalID: 1761921783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_150
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 640
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13910af829691d649b6e6a6469fe6fac
+      internalID: -1578355388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_151
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 640
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd99c86b4d52c274c9f1db6f5d399429
+      internalID: 569385698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_152
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 640
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0524100c750ea4941811eb937533608e
+      internalID: 532460677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_153
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 640
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9dd8157450b964bae81c4f951b9e2f
+      internalID: -1180274803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_154
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 640
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f5f4cd0a0a19d4fad7798a51ebdf72
+      internalID: 1720596078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_155
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 640
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53772eacd54d2e349a1961e256083dab
+      internalID: -2043743436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_156
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 640
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b20b82d352a8904c8fe9b1002f48503
+      internalID: -464172488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_157
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 640
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df3363eb5e657945ac267e524883ed0
+      internalID: -1335734150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_158
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 640
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edaaf8f221c125408382af277a12025
+      internalID: 921359771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_159
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 576
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259a2d9bd96f5b34f85a03b5e40dbdca
+      internalID: 413698362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_160
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 576
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa76d41ed5d56f54d9a5c7c0cebeed53
+      internalID: -238350598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_161
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 576
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1e56a16b52a5648a47966443e218cd
+      internalID: -475935248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_162
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 576
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6794e31bb2f0a4cb1e49edb1d3616a
+      internalID: -1906672957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_163
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 576
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd118e626cf9dd445abdfa08543fb0f5
+      internalID: -1664039579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_164
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 576
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5939176c05edf94449e6c19f4a2b8479
+      internalID: -624247135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_165
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 576
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eace8d15b0b3a73439eaa8c2ef04d64f
+      internalID: -720406564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_166
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 576
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e90662728b2744ab0b0eb87967866a
+      internalID: -101383535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_167
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 576
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f06432e333201f4d8294e546baa899b
+      internalID: -2079928898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_168
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 576
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7c3363192bde04d8c6602f55c20f36
+      internalID: 1223269453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_169
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 576
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a286252fe718f3b4a89584953d8f934a
+      internalID: 1692296509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_170
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 576
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e290cfdc3ca3215469de88faea649fee
+      internalID: -1036480523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_171
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 576
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e3dfdf494a2ff4eafc66853525b476
+      internalID: 1902081819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_172
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 512
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9428247c72fd3884ca8c2ec1b0deeb10
+      internalID: 175110789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_173
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 512
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9ad8a09b956274daf780d4f5fd5443
+      internalID: 1782493531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_174
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 512
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a82d4c6bf14538439bcbfa076a2de8b
+      internalID: 271095187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_175
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 512
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d6032d88b72c342a029ce1f4207915
+      internalID: 749810692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_176
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 513
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262c593b6aed9c64d916c0dd71935d71
+      internalID: -316103958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_177
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 512
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8eb883e6fe7be45b0cbc446ddc6095
+      internalID: 1379632628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_178
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 416
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1864e477ee2db478e3818d7950cf61
+      internalID: 1272252695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_179
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 416
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a2186e690d58443b36f2a1c36afe41
+      internalID: -249878826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_180
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 416
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782512881c0e9ef428281971e5a18c13
+      internalID: 1227154766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_181
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 416
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b92730c00c96ec43bfe01a403af5b1a
+      internalID: -348848814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_182
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 416
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9253b2e9b3a70794895714a1f4074a29
+      internalID: 1468291769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_183
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 416
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9915db1ec3141ba42a049f6879782022
+      internalID: -271856820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_184
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 416
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc9dcf1fff63b84b91410c2fe4b28f5
+      internalID: 1894476624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_185
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 416
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c380e7cbe556a4e893c6e5f9a23a29
+      internalID: -1783380512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_186
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 288
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e24d558132f744b8d6254a89c5accd
+      internalID: 1818505622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_187
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 288
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15f5ce92bc109c4e9d6e3d37e085d67
+      internalID: 873218298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_188
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 288
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701768134837bc941b3d9868e52a8709
+      internalID: 583553060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_189
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 288
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf200a2a8ffde3b45890f6b97cec5eea
+      internalID: 628046826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_190
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 288
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d48d0a92287afc47a2106f55fd0e15e
+      internalID: -829474983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_191
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 288
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c1550ac5c495d4593f30ca36fcea43
+      internalID: -1763241395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_192
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 288
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65dda204a4c80bb4ebc9d9d6a99881b4
+      internalID: 1212504296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_193
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 288
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ba0ebbf0e34564fad2999b08b9085c
+      internalID: -1914599783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_194
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 160
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebebf1e90186ba74985ac79a81b41091
+      internalID: -933584429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_195
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 160
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea45c7f9dfe1c24880fe96ad1d66c08
+      internalID: -1604595984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_196
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 160
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7603d16a5c720945bb8e262d54757ec
+      internalID: -699402492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_197
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 160
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d364857a85401df48b5d1e2825f8df12
+      internalID: -1565923677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_198
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 160
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61c938a00aa8894dba5e7ced307a905
+      internalID: 1370570383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_199
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 160
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ada0dd15af82ac4084249e780795586
+      internalID: 1147247243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_200
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 160
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f6ba5f1188c3c40889d563d96f9536
+      internalID: -206450667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_201
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 160
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddceaa53053a1d644a3eafca1a7e3710
+      internalID: -546828004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_202
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 32
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3b5cd32af39a14ab94b7b6578f303d
+      internalID: 289592093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_203
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 32
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c27f1aac1c981643920810896df8e77
+      internalID: 402467157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_204
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 32
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821d297ec609c044c9ad0e19ce32c31a
+      internalID: 1511973124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_205
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 32
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d20c3479b0ae649897fd890c961120
+      internalID: -633238635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_206
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 32
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ee7bcf782b6cc4096a70263f9457ac
+      internalID: 853962386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_207
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 32
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14e9695ccca70246af23b6fca3ef153
+      internalID: -1156107129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_208
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 32
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bf50f765432e649afb106ab30dcecc
+      internalID: -1425844390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maincharacter_bow_spritesheet_209
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 32
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae575a0cb969974aada60da24bf0b7b
+      internalID: -474295604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      maincharacter_bow_spritesheet_0: 532884289
+      maincharacter_bow_spritesheet_1: 1444635217
+      maincharacter_bow_spritesheet_10: 1563050467
+      maincharacter_bow_spritesheet_100: -596642563
+      maincharacter_bow_spritesheet_101: 1596082492
+      maincharacter_bow_spritesheet_102: 723438326
+      maincharacter_bow_spritesheet_103: 1614671420
+      maincharacter_bow_spritesheet_104: 595572024
+      maincharacter_bow_spritesheet_105: 260246716
+      maincharacter_bow_spritesheet_106: -1910015387
+      maincharacter_bow_spritesheet_107: -1748820643
+      maincharacter_bow_spritesheet_108: -1376147259
+      maincharacter_bow_spritesheet_109: 813969164
+      maincharacter_bow_spritesheet_11: 2113972842
+      maincharacter_bow_spritesheet_110: -1598705999
+      maincharacter_bow_spritesheet_111: 398696454
+      maincharacter_bow_spritesheet_112: -797934950
+      maincharacter_bow_spritesheet_113: 1579473811
+      maincharacter_bow_spritesheet_114: 1994440572
+      maincharacter_bow_spritesheet_115: -1713227000
+      maincharacter_bow_spritesheet_116: 1837282198
+      maincharacter_bow_spritesheet_117: -727351175
+      maincharacter_bow_spritesheet_118: -1616158744
+      maincharacter_bow_spritesheet_119: 1030237407
+      maincharacter_bow_spritesheet_12: -1503260287
+      maincharacter_bow_spritesheet_120: -1337966053
+      maincharacter_bow_spritesheet_121: -1938237391
+      maincharacter_bow_spritesheet_122: -1535493318
+      maincharacter_bow_spritesheet_123: -1928483564
+      maincharacter_bow_spritesheet_124: -708368186
+      maincharacter_bow_spritesheet_125: 1636651601
+      maincharacter_bow_spritesheet_126: 630471269
+      maincharacter_bow_spritesheet_127: -953821597
+      maincharacter_bow_spritesheet_128: 2045755020
+      maincharacter_bow_spritesheet_129: -535677044
+      maincharacter_bow_spritesheet_13: 640497850
+      maincharacter_bow_spritesheet_130: 486045120
+      maincharacter_bow_spritesheet_131: -1751166115
+      maincharacter_bow_spritesheet_132: 190622053
+      maincharacter_bow_spritesheet_133: -1881275381
+      maincharacter_bow_spritesheet_134: -1540316063
+      maincharacter_bow_spritesheet_135: 233517038
+      maincharacter_bow_spritesheet_136: -241421843
+      maincharacter_bow_spritesheet_137: 312601196
+      maincharacter_bow_spritesheet_138: 351098659
+      maincharacter_bow_spritesheet_139: 793485844
+      maincharacter_bow_spritesheet_14: -618421272
+      maincharacter_bow_spritesheet_140: -2040969099
+      maincharacter_bow_spritesheet_141: -824018558
+      maincharacter_bow_spritesheet_142: 1426780402
+      maincharacter_bow_spritesheet_143: -522809871
+      maincharacter_bow_spritesheet_144: 147230363
+      maincharacter_bow_spritesheet_145: 111950622
+      maincharacter_bow_spritesheet_146: -84735168
+      maincharacter_bow_spritesheet_147: 124105251
+      maincharacter_bow_spritesheet_148: 125278775
+      maincharacter_bow_spritesheet_149: 1761921783
+      maincharacter_bow_spritesheet_15: 235899297
+      maincharacter_bow_spritesheet_150: -1578355388
+      maincharacter_bow_spritesheet_151: 569385698
+      maincharacter_bow_spritesheet_152: 532460677
+      maincharacter_bow_spritesheet_153: -1180274803
+      maincharacter_bow_spritesheet_154: 1720596078
+      maincharacter_bow_spritesheet_155: -2043743436
+      maincharacter_bow_spritesheet_156: -464172488
+      maincharacter_bow_spritesheet_157: -1335734150
+      maincharacter_bow_spritesheet_158: 921359771
+      maincharacter_bow_spritesheet_159: 413698362
+      maincharacter_bow_spritesheet_16: -1286049428
+      maincharacter_bow_spritesheet_160: -238350598
+      maincharacter_bow_spritesheet_161: -475935248
+      maincharacter_bow_spritesheet_162: -1906672957
+      maincharacter_bow_spritesheet_163: -1664039579
+      maincharacter_bow_spritesheet_164: -624247135
+      maincharacter_bow_spritesheet_165: -720406564
+      maincharacter_bow_spritesheet_166: -101383535
+      maincharacter_bow_spritesheet_167: -2079928898
+      maincharacter_bow_spritesheet_168: 1223269453
+      maincharacter_bow_spritesheet_169: 1692296509
+      maincharacter_bow_spritesheet_17: 247492046
+      maincharacter_bow_spritesheet_170: -1036480523
+      maincharacter_bow_spritesheet_171: 1902081819
+      maincharacter_bow_spritesheet_172: 175110789
+      maincharacter_bow_spritesheet_173: 1782493531
+      maincharacter_bow_spritesheet_174: 271095187
+      maincharacter_bow_spritesheet_175: 749810692
+      maincharacter_bow_spritesheet_176: -316103958
+      maincharacter_bow_spritesheet_177: 1379632628
+      maincharacter_bow_spritesheet_178: 1272252695
+      maincharacter_bow_spritesheet_179: -249878826
+      maincharacter_bow_spritesheet_18: 1668183327
+      maincharacter_bow_spritesheet_180: 1227154766
+      maincharacter_bow_spritesheet_181: -348848814
+      maincharacter_bow_spritesheet_182: 1468291769
+      maincharacter_bow_spritesheet_183: -271856820
+      maincharacter_bow_spritesheet_184: 1894476624
+      maincharacter_bow_spritesheet_185: -1783380512
+      maincharacter_bow_spritesheet_186: 1818505622
+      maincharacter_bow_spritesheet_187: 873218298
+      maincharacter_bow_spritesheet_188: 583553060
+      maincharacter_bow_spritesheet_189: 628046826
+      maincharacter_bow_spritesheet_19: -59588827
+      maincharacter_bow_spritesheet_190: -829474983
+      maincharacter_bow_spritesheet_191: -1763241395
+      maincharacter_bow_spritesheet_192: 1212504296
+      maincharacter_bow_spritesheet_193: -1914599783
+      maincharacter_bow_spritesheet_194: -933584429
+      maincharacter_bow_spritesheet_195: -1604595984
+      maincharacter_bow_spritesheet_196: -699402492
+      maincharacter_bow_spritesheet_197: -1565923677
+      maincharacter_bow_spritesheet_198: 1370570383
+      maincharacter_bow_spritesheet_199: 1147247243
+      maincharacter_bow_spritesheet_2: -43066254
+      maincharacter_bow_spritesheet_20: 1952432192
+      maincharacter_bow_spritesheet_200: -206450667
+      maincharacter_bow_spritesheet_201: -546828004
+      maincharacter_bow_spritesheet_202: 289592093
+      maincharacter_bow_spritesheet_203: 402467157
+      maincharacter_bow_spritesheet_204: 1511973124
+      maincharacter_bow_spritesheet_205: -633238635
+      maincharacter_bow_spritesheet_206: 853962386
+      maincharacter_bow_spritesheet_207: -1156107129
+      maincharacter_bow_spritesheet_208: -1425844390
+      maincharacter_bow_spritesheet_209: -474295604
+      maincharacter_bow_spritesheet_21: 1792601784
+      maincharacter_bow_spritesheet_22: 1043395867
+      maincharacter_bow_spritesheet_23: 1953666839
+      maincharacter_bow_spritesheet_24: -678597891
+      maincharacter_bow_spritesheet_25: 550442428
+      maincharacter_bow_spritesheet_26: -1814559371
+      maincharacter_bow_spritesheet_27: -2067521086
+      maincharacter_bow_spritesheet_28: -1785966661
+      maincharacter_bow_spritesheet_29: -1575551415
+      maincharacter_bow_spritesheet_3: -978474932
+      maincharacter_bow_spritesheet_30: -1861113173
+      maincharacter_bow_spritesheet_31: -1341038738
+      maincharacter_bow_spritesheet_32: 712928132
+      maincharacter_bow_spritesheet_33: 1663344536
+      maincharacter_bow_spritesheet_34: 1142364612
+      maincharacter_bow_spritesheet_35: 376838785
+      maincharacter_bow_spritesheet_36: 2084774412
+      maincharacter_bow_spritesheet_37: -1167179746
+      maincharacter_bow_spritesheet_38: 625568506
+      maincharacter_bow_spritesheet_39: 769383680
+      maincharacter_bow_spritesheet_4: 1766270401
+      maincharacter_bow_spritesheet_40: -975188907
+      maincharacter_bow_spritesheet_41: -1792347146
+      maincharacter_bow_spritesheet_42: -1561955683
+      maincharacter_bow_spritesheet_43: 623700505
+      maincharacter_bow_spritesheet_44: -2125285931
+      maincharacter_bow_spritesheet_45: -1044271150
+      maincharacter_bow_spritesheet_46: 1277753603
+      maincharacter_bow_spritesheet_47: 1934671456
+      maincharacter_bow_spritesheet_48: -1948203514
+      maincharacter_bow_spritesheet_49: 388629239
+      maincharacter_bow_spritesheet_5: -1384395787
+      maincharacter_bow_spritesheet_50: 1427101529
+      maincharacter_bow_spritesheet_51: -1738869143
+      maincharacter_bow_spritesheet_52: -2086449948
+      maincharacter_bow_spritesheet_53: -1449061187
+      maincharacter_bow_spritesheet_54: -89235353
+      maincharacter_bow_spritesheet_55: 1325775103
+      maincharacter_bow_spritesheet_56: -549995362
+      maincharacter_bow_spritesheet_57: -488707955
+      maincharacter_bow_spritesheet_58: -464026831
+      maincharacter_bow_spritesheet_59: -1890324157
+      maincharacter_bow_spritesheet_6: 370587233
+      maincharacter_bow_spritesheet_60: -1374900602
+      maincharacter_bow_spritesheet_61: -1212551630
+      maincharacter_bow_spritesheet_62: 689069056
+      maincharacter_bow_spritesheet_63: 954497359
+      maincharacter_bow_spritesheet_64: -1098744680
+      maincharacter_bow_spritesheet_65: 714094920
+      maincharacter_bow_spritesheet_66: -679951391
+      maincharacter_bow_spritesheet_67: 446358043
+      maincharacter_bow_spritesheet_68: -1734082811
+      maincharacter_bow_spritesheet_69: -1051385584
+      maincharacter_bow_spritesheet_7: 619433276
+      maincharacter_bow_spritesheet_70: 243606510
+      maincharacter_bow_spritesheet_71: 1276131712
+      maincharacter_bow_spritesheet_72: -1380377700
+      maincharacter_bow_spritesheet_73: 911821737
+      maincharacter_bow_spritesheet_74: -1610919206
+      maincharacter_bow_spritesheet_75: -1266710221
+      maincharacter_bow_spritesheet_76: -111456771
+      maincharacter_bow_spritesheet_77: 1669313963
+      maincharacter_bow_spritesheet_78: 1319987068
+      maincharacter_bow_spritesheet_79: -1251200030
+      maincharacter_bow_spritesheet_8: 1866394879
+      maincharacter_bow_spritesheet_80: -61940609
+      maincharacter_bow_spritesheet_81: 1995287578
+      maincharacter_bow_spritesheet_82: -784936577
+      maincharacter_bow_spritesheet_83: -1590245384
+      maincharacter_bow_spritesheet_84: -1098974764
+      maincharacter_bow_spritesheet_85: 451912044
+      maincharacter_bow_spritesheet_86: 1662890711
+      maincharacter_bow_spritesheet_87: -1922590658
+      maincharacter_bow_spritesheet_88: -1083201689
+      maincharacter_bow_spritesheet_89: 1158651256
+      maincharacter_bow_spritesheet_9: 1911752383
+      maincharacter_bow_spritesheet_90: -1997596080
+      maincharacter_bow_spritesheet_91: 1368533616
+      maincharacter_bow_spritesheet_92: -1008994744
+      maincharacter_bow_spritesheet_93: 1028361300
+      maincharacter_bow_spritesheet_94: -1418486867
+      maincharacter_bow_spritesheet_95: 1498238170
+      maincharacter_bow_spritesheet_96: 1599334097
+      maincharacter_bow_spritesheet_97: -792966263
+      maincharacter_bow_spritesheet_98: 360997858
+      maincharacter_bow_spritesheet_99: 366757132
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

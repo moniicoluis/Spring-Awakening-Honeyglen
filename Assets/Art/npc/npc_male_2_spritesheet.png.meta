@@ -1,0 +1,5183 @@
+fileFormatVersion: 2
+guid: 717ffe6681c43d94eaf766ce5fe9ca68
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1792
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74a472ccfb0f1f49b01b373d8905135
+      internalID: -1718578101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1792
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72565921968b274eac69f303272671e
+      internalID: -2008622405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1792
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2cbbaffb89d244faba820a9199c31b
+      internalID: -1481867739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1792
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5adf8248b3c28468859476d80852af
+      internalID: 2079508988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1792
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7c71e0d168c9a43b82bb07206d568e
+      internalID: -136426602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1792
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492afcfe39ec29343b544cb493ec158d
+      internalID: 841820161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1792
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a013757e9b3624b975b9724ab5b297
+      internalID: 1655359614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1728
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0b33c8d3757bc46816910159c2fb54
+      internalID: -570894049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1728
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42802ec40bccd6f4c889e8b6cdfb8d88
+      internalID: -1971809692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1728
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858ecbd98ffafa046b1bb561bfb0f9cc
+      internalID: -560189371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1728
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee90f13f6b90c74db5317e689394b1a
+      internalID: 874324388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1728
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37799ba69d9e36f43b9eb346e7192ab2
+      internalID: 1589850687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1728
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307a300c8d01f8f40bf1619affd05385
+      internalID: -1133481448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1728
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0e149eeb28eaa498d8d914588f5432
+      internalID: 227940130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1664
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef3c8c85e86b714290c261f57c75ef8
+      internalID: -88717425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1664
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9c5e5c1f4bc6847997b32e8325b3eb
+      internalID: -1261829516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1664
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540747aeed800ea4db65bd6c12f307c8
+      internalID: 764889015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1664
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7d38f42dd0bb9408ad413959e13130
+      internalID: -2100788147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1664
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1094544fd2369f44b64ba7fec305b5e
+      internalID: 1218460983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1664
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f1052a136dc774b9e29b92c7aee453
+      internalID: -1748199578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1664
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9978c48de2bbd5c45ab4fc4affcc96fc
+      internalID: -1988005571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1600
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512d782ad3543d74186b7f9012ab6fbb
+      internalID: -2022725704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1600
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cae561c9a4cf4542b76a2b3b5f7bbb7
+      internalID: 483456622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1600
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1ad4909dfbe2d48be704d4dea952b6
+      internalID: -1512383917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1600
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ef9f44ec18d5a4e81238538d665e3c
+      internalID: -1811332651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1600
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecedb7a457823149ae2f4c60e1c7172
+      internalID: 654362932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1600
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db30a0ef2f1373844926f047695ef9bb
+      internalID: -1331862103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1600
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cb66930168dec449777c696f0b533f
+      internalID: 1913947764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1536
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a13cb0a4adcb449b7eeb904d4acdfe
+      internalID: 1091500040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1536
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1fc5b0e3a53344182478b064abecc3
+      internalID: -886937263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1536
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9aad6ed274ed045a9adb60a41063b6
+      internalID: 1840636913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1536
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349e31d5ffea7944fb4642aac838d87a
+      internalID: -1421851689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1536
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f44046135803f4cba51b16120b20e3
+      internalID: 1907738853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1536
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ad5b5f30ceacc4daa22810cfaff6e0
+      internalID: 2026262352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1536
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541029d6a4ce1c84ebe6328f005c9343
+      internalID: 681858749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1536
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6036f1be58af94d8fc34589a54d5bf
+      internalID: 1682373115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1472
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fddfea7913dd74b94778e03f41aef4
+      internalID: 1942113842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1472
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d71f63914ef3264588102b5d4ca2562
+      internalID: 1782116527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1472
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c533276d814ca408dc2f56d81ee3d6
+      internalID: 588054103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1472
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3cf4e85d6380d41a81cc4784635935
+      internalID: -893009463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1472
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afba98c930c0ca94b86b9a6cd999825a
+      internalID: 1477094115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1472
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1e46c84325c0a47935f968b651d588
+      internalID: 666955090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1472
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2b7c95318ad8040bef5ee3ac9b1b60
+      internalID: -1214660879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1472
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ce372e0f8bc75438aaf52a7ee91021
+      internalID: -361884693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1408
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cee3ba9fbeced419b89d6574a3099f
+      internalID: 1178110930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1408
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8550069ca73a2e4db74017d6c2ba9fa
+      internalID: -1727249111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1408
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eeceb93f506daf4fab42a46803bb332
+      internalID: -1423118722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1409
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae6c75a96695e24787f85986d0fb2ae
+      internalID: -1017763108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1409
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a32e8b2a83802c4db6345b5611eb706
+      internalID: 1352611904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1408
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a823dd8c5b5c447ac60abecaa04e2d
+      internalID: 615093979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1409
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20dceb36831628d49b3272db5cf7d344
+      internalID: -1722509982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1409
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8387d632a301ea749954ed2f7a5e325e
+      internalID: 157517984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1344
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb14aad4e27f1c4cb67b5502b335a4e
+      internalID: -742337406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1344
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142af1bbcee298c45a045a2c04f390cd
+      internalID: -1203345752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1344
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c32b4e4499fb114ca4a9bdb9b7fa0c5
+      internalID: -1299445460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1344
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d33d84d591ffb4bae2b4709be5d95a
+      internalID: -1717092262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1344
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b8c4769034dff48ae18646ecf22932
+      internalID: -1210229609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1344
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94420a499ef6c5049ab70f4894d95593
+      internalID: 1421145864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1344
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197bfeb6b3b5f134fa56cae05e540a1d
+      internalID: -1334117528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1344
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7793f9ee9821464db0842a739a3d353
+      internalID: 412481822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1280
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c418641a8451a4047822fa29b9650601
+      internalID: -1400514500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1280
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df8104478d9f654f82625e7dbea7b4d
+      internalID: -27761532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1280
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04741a972c86ccc4f8233adc8d018c35
+      internalID: 778592585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1280
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d79cffe700870348ba903500a85c6b0
+      internalID: -171984099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1280
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c033dbeca56f763498bce432223c0b73
+      internalID: 1837005177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1280
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6253df966eb6b04daf58d595fd5a3cd
+      internalID: 70146889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1280
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1890b120d48a6458b95c8d79716d76
+      internalID: 1723260742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1280
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2c32d7026ea7f40be4d84f445d3dfc
+      internalID: -1516603392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1280
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf6425d99cfad84b81b604f8fb10854
+      internalID: -1971799943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1216
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47048f01a54407d479804c90c70a08d0
+      internalID: -1473916799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1216
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451b06c7a5efab64eac52a0424b61412
+      internalID: 355734090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1216
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f4bbaa8ced20c4d91cc41ffc333627
+      internalID: -2119964944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1216
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c067f33e8efed5c4c8994a81f5691458
+      internalID: -1824636393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1216
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca496dab4dee35f4fba1ad4bf9a35a16
+      internalID: -1041832812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1216
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ee42545ad5ec94c9d4aa200c4ee425
+      internalID: 2036497353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1216
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbbb87f19ac0504b81993b83158960b
+      internalID: -502193291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1216
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a94d5b9c5dbb0943a9d9f96f145d8f3
+      internalID: 1842856577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1216
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23643620fde072940a1e6608dc7179c4
+      internalID: -1592920080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1152
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e988cfbb6347e74ba734013fd9ad4d4
+      internalID: 444453927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1152
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee0081b84e69d544a98f1b670047921
+      internalID: 1678007037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1152
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2365cd8569bea4fbc7853eeb494561
+      internalID: -784519694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1152
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0e3514d56d1c84095999df89a9d180
+      internalID: -1374913788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1152
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac933cc27a17184eaff039b2dc26661
+      internalID: 501854822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1152
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168dfe4a006e2ad45a75b7a248b0d52b
+      internalID: -870747336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1152
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35be30ecc22e6094f911ee98b7c19a95
+      internalID: 1042058683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1152
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbe0d20fff75c143b8d5629d0df83d4
+      internalID: -1735758032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1152
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4947f98d63d77cb4fad68691e22149c1
+      internalID: -1843346737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1088
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebf8d903ed87494696ec9c6a88b045e
+      internalID: -152847377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1088
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e80966a5949fab469904029dea0f7e9
+      internalID: 683708903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1088
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997f031e1c3ba5343ad38ec3225655b5
+      internalID: -1998293879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1088
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fae67e438925344a9d971b8722da282
+      internalID: 1568546401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1088
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75877bf93c93344ca85c985d24241ca
+      internalID: 1253808106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1088
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a478085bddfc0ad4baa17ede7cd69457
+      internalID: -21938017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1088
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a8a137f19d3ae48b253881be4367bc
+      internalID: -1590208889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1088
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9ad55157ce8c34e91cd80d1ee5dc27
+      internalID: -881423480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1088
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebdcb8cce3fe87949a54f37eb12d6166
+      internalID: 283116102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1024
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20a7210dff78654b89cf965223ff6cb
+      internalID: 1529833772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1024
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2117381fb11960847836b576da4a1cd7
+      internalID: -1961219489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1024
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19091d900b125d643802f9959fbdaf92
+      internalID: 1111302139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1024
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e698ddc8b14d34bb7c2303437a0b16
+      internalID: 1163435911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1024
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d39a1c1cfdcc64c8f45f31dba8f0b4
+      internalID: 37354862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1024
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9436d18bf82fb2a44a842f4acfa936ff
+      internalID: -1306216670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 960
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd7b9402da592248b7256780b5dc786
+      internalID: -67199036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 960
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8bddb97141c414f9a3a259564db1c8
+      internalID: 1868246076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 960
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d2494754b0e16479a44a6d565b55fb
+      internalID: -764854524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 960
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e02d0b4567b254c8777daf57de4938
+      internalID: -1122698716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 960
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ab56b4360656a47a9a2d64d0e43f92
+      internalID: 84442061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 960
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c71295b2e5819a4ba74aff725d1a365
+      internalID: -1255025554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_108
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 896
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4062b8a2829c393469e3da7d22c73f67
+      internalID: -984790640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_109
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 896
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29e1bced80d5e74fb1c81e9f79e7230
+      internalID: 413267376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_110
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 896
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97152004f5a6c4418ed9e620e8ac50a
+      internalID: 1664037352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_111
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 896
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264e2e1ec4e2486428040b666121680d
+      internalID: 401051802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_112
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 896
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6560c01e5dda1e949a16843f432c73d5
+      internalID: -1878448934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_113
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 896
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270f5ecaaa2bb3f42a4b43967608fc85
+      internalID: 1454598205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_114
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 832
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19cc8f72e74c0a345b1a2f03b5e64f48
+      internalID: 27692945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_115
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 832
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd7c6a75b5c6384eaaefd00dd118922
+      internalID: -318195340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_116
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 832
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4243eb495986584096e87cbe3689e99
+      internalID: -62839063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_117
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 832
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f012eaba63b9da40863a4f85e814fe2
+      internalID: 1405494031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_118
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 832
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad5f746f4421f449b3f0ffd2823ee07
+      internalID: -883837561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_119
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 832
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd6ec8df042f724e9c8487237354d2c
+      internalID: 510198422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_120
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 768
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7734887b530a7dd46be2248711155466
+      internalID: 1521971905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_121
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 768
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b38b1a99134dd43a2698c929239aab
+      internalID: 873697874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_122
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 768
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35257e27972ecc840ab943fc762e464b
+      internalID: 943158713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_123
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 768
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58111102ccf4eb64fb6e6fa5c5842272
+      internalID: 1400750658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_124
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 768
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88683303480d85449adbc252e24fba34
+      internalID: -620832641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_125
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 768
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddff39aa9ab7d447b918bb8174f30ae
+      internalID: 478857869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_126
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 768
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f523b03352bd12f429a842c82a6b4a07
+      internalID: -851694626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_127
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 768
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2b7050cd5468b4a8dd0de6aaf9fbc9
+      internalID: -71044229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_128
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 768
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddce0b8eaa00a8b489e7479e159eda86
+      internalID: 469778162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_129
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 768
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d2322122c10d843a6031b8723f4068
+      internalID: 2031185550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_130
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 768
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1da2a3afcadc9428ec47c52fefd4d5
+      internalID: 465241449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_131
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 768
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f34ffa7887baf642b5b0e7562b85473
+      internalID: 1861013102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_132
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 768
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10fdf8059715b849a0683a34c7a0dc5
+      internalID: -1213456562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_133
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 704
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca19d51f6c7afae4498c86712054c676
+      internalID: 301168492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_134
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 704
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761eaaed8073d7e48a3e3a3a51b3637f
+      internalID: -231516250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_135
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 704
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a8b66ba466dc84089078953abfc68c
+      internalID: -2079918571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_136
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 704
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4e53ead29c97f4ebc33982154a09e5
+      internalID: -886482350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_137
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 704
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6876acad87f0fee42b55c5cadac3b980
+      internalID: -1410223183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_138
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 704
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce36e0a76bc26b45917fe336bd68263
+      internalID: 1464522154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_139
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 704
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ad33473babb2e49a3ac97e49cdda43
+      internalID: 3478023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_140
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 704
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456bddbdbf4d5b143a33a88921022564
+      internalID: -1418276286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_141
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 704
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e5cb95751a7164ca4bc17d67c1d7ab
+      internalID: 218874800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_142
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 704
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e16db7cc77a4a4abb56a9b00c6b203
+      internalID: -1498289789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_143
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 704
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5165a9a62ec4aa4998e0280bbe489e0
+      internalID: 2106449380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_144
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 704
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb8abf5795056f4e9f2450f0911c3ea
+      internalID: 1745443123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_145
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 704
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48da67e667047340ae4184473622021
+      internalID: 691695111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_146
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 640
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5cee9ee64257574e9be584b3bf93959
+      internalID: 974536432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_147
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 640
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2572729f52459644cbbece8c714f192f
+      internalID: 11283812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_148
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 640
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead4fb8e4582f694aa49554f9a8541c2
+      internalID: 410350041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_149
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 640
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ebc5c9e66dbd94fbf540f3621f7980
+      internalID: -235731408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_150
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 640
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2239772899ae8b4094e2f644fe461aa
+      internalID: -1476319744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_151
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 640
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c6888af9d24e0419da97b8f39c1ffb
+      internalID: 355863161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_152
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 640
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2421e68caea09304495cbdb97e7c6b8a
+      internalID: 131502579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_153
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 640
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a88ddf5849fb44cbf3e5024fc3c91f
+      internalID: 1463583504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_154
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 640
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca065cdc1d22aa45bcb8104d6468620
+      internalID: 2143902001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_155
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 640
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bb6c523e0f0b34cbf72305b83a7813
+      internalID: -1248198496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_156
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 640
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb9e65dd2dd71045b4ec23b07e2f86a
+      internalID: 2028698066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_157
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 640
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deeef2e0f722ed84c9d6ceb70edadcd1
+      internalID: 433668762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_158
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 640
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861cb39336fa0ef4d89c3882472b1212
+      internalID: 765915342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_159
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 576
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26df89f3e7cdd51498b4412cb8c8bab4
+      internalID: 1914816786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_160
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 576
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3123c40bf88909b47a548baabaae5305
+      internalID: -1630358248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_161
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 576
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b69a80010295d44bb896a42d9db4f6
+      internalID: 1141922160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_162
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 576
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d97dbfcd52bf341b4bc24af6f70311
+      internalID: -495783256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_163
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 576
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de3b6dba6cf0304e9ed791da8899511
+      internalID: -667795720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_164
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 576
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42eedc00101b2fb4aa91211d1572c040
+      internalID: -2042695826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_165
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 576
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d141e304e7915445b6a2039c467de19
+      internalID: -1630527310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_166
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 576
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3079c53c8ef15ee46b52a2a77295092c
+      internalID: 1245711382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_167
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 576
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb56fefa17a1e8947a7338e60c61e19b
+      internalID: -1020183399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_168
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 576
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab0c535b9dc16d4299892f1e4985c44
+      internalID: 1765502084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_169
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 576
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836d19d2c0ed4df42b5070cb6eba9f34
+      internalID: -1713753576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_170
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 576
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65cf99afab7ef95439be6e173c4475e8
+      internalID: 100706840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_171
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 576
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12acd3fda0fbd44d976c44a907f3a54
+      internalID: 1515565538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_172
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 512
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62661d7fe9e020448b7401d2799cb49c
+      internalID: 1117991423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_173
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 512
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874ce2df1293bae4aa461218ccc844f4
+      internalID: 1687548111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_174
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 512
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5269f9cdf4d3f46afc4362337d6e77
+      internalID: -1365042674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_175
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 512
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018f3343f85bef2449fd3ea3256e0207
+      internalID: 48113097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_176
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 513
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a85c138c0db7dd45a63e3aefd7b1121
+      internalID: 1616848055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_177
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 512
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302af55b2b096184a93c13085b4f7d3d
+      internalID: 1923200698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_178
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 416
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c15d42d42bb53f4b94a920a3ba2ced7
+      internalID: 2132600426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_179
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 416
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa47e0648903424b84f73ce31eb4213
+      internalID: 765329675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_180
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 416
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c17f151b0b6f804fa6fc958750431da
+      internalID: 702801335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_181
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 416
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f94c32715ffb64ca3cc1f7932b5272
+      internalID: 1394925408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_182
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 416
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2223708d92da0d41875d0ad96378f2e
+      internalID: 1401678162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_183
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 416
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f715227f50f04c49852c13e65f64959
+      internalID: 1031265026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_184
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 416
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1bb2d300ff747429476cca4060f5c7
+      internalID: -106288356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_185
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 416
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921185dcea0e1744f9dc56e50e907f83
+      internalID: -970410880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_186
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 416
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9baa8540c70bd0c4c9a136eda3b14855
+      internalID: -1963806529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_187
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 416
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edf8b6d633568e4a8f36a9af6935a8a
+      internalID: 1353311912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_188
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 416
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10abfd152ee3d524eac614e69e4f8dd9
+      internalID: -1457026240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_189
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 416
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792dc8cfd0bc5b84f9842d2791348dbd
+      internalID: 2042000164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_190
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 416
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26dfa6ae32829b04d819a17c737dd488
+      internalID: -939243937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_191
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 288
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d75952506c756d4e9180bdc3bc7fd89
+      internalID: 1534652328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_192
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 288
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204b4a5e3c85ab145980d196e4b514c7
+      internalID: -31769442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_193
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 288
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 34, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fdcad7836f8344d8306b37ebe0ba18
+      internalID: 912686718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_194
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 288
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 39, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eecdda58506d1464bb9077b2f80445c2
+      internalID: -2116903469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_195
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 288
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d7964285a316a49ac12fba2371cf84
+      internalID: -751916412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_196
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 288
+        width: 76
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 40, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7c7ada4ed67a24a9b88267f77b5856
+      internalID: 833211297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_197
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 288
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 42, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec2747ae7579b14a8f4ec8a7ad5adf4
+      internalID: -2077036602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_198
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 288
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 36, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9bae1fe20b44e479fa66734bcffce0
+      internalID: 803583629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_199
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 288
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 39, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25eec5085009764cbc4239a3f82520c
+      internalID: 687403284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_200
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 288
+        width: 75
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 38, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b31df138d47c694ba82561322b4e685
+      internalID: -1863278680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_201
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 288
+        width: 75
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 43, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75afb4ad2335f44081bbd60a4d2be6b
+      internalID: -1973110199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_202
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 288
+        width: 73
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235cc8bf4072bd845848dac8e334d8d0
+      internalID: 41387433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_203
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 288
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a916f6eb77cb4a42882f9cba24767c6
+      internalID: 1321954972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_204
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 160
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1327bd5c4d4d634086126780a137000
+      internalID: 2039294763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_205
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 160
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f69e87f900c4c449a27c585a0b234f4
+      internalID: -367083856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_206
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 160
+        width: 26
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7423d6d42cfaa14eb895d9e13aeb5df
+      internalID: 403638492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_207
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 161
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111cf75bf666dab42ac4a4ba0a61c919
+      internalID: -653342040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_208
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 161
+        width: 35
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6b1722af9446945b79b7ca25654a55
+      internalID: 280445028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_209
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 160
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06e118613ed1264e96ebbbaf71dea18
+      internalID: 2005359889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_210
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 161
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc27bfe0bf2120a41932a75533d52076
+      internalID: 1239246534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_211
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 161
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82686733b04ea24ebe51337a25457e7
+      internalID: 103805654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_212
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 161
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b176c9fa1cdf44fb3e05ba3e972050
+      internalID: -974595080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_213
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 160
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6238d189b3ba47449e40156bf40e7d8
+      internalID: 1664566640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_214
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 161
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a86fc8aabb89e468b1716a169550d5
+      internalID: -1995877575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_215
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 160
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8b90d18d0578d46956b825effcb26c
+      internalID: -443050670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_216
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 161
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fda9a9e24b8f84f9f026c8e8b17ffc
+      internalID: -964212869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_217
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 32
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3e5fc3963994e4ca0379be8dde8cb3
+      internalID: -123585606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_218
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 32
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9109da74896aa124ba5ba42ece5b6a51
+      internalID: -370915706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_219
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 32
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8692a72914012074ebe7888e5da41ad2
+      internalID: 342491034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_220
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 32
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb4ce3a3edb8094794dea5d0130c220
+      internalID: -112331635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_221
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 32
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3420b497e9b43c146a44153154b4f182
+      internalID: -1943624990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_222
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 32
+        width: 76
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2329e92f4fac9f246a1fad62648713bb
+      internalID: 1729776262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_223
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 32
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe2cdd9780b51d4da4d4f1c0e1210dc
+      internalID: -1403617393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_224
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 32
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e663225a96c0464583a8f312a54acba
+      internalID: 1225549200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_225
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 32
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb07e848d6dbe9446a343537989800a9
+      internalID: -1119323962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_226
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 32
+        width: 75
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722d7aaca99c5c244a651ff0f3b571e9
+      internalID: 2025987338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_227
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 32
+        width: 75
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31af8f7149375ff4aa232830073ddf56
+      internalID: 608993593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_228
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 32
+        width: 73
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04cf5bed6494ea0408e0c82dc9cc83ba
+      internalID: -1687066390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_male_2_spritesheet_229
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 32
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80ecdba7ca691743b1d3f42d2e66ee0
+      internalID: -2025617497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      npc_male_2_spritesheet_0: -1718578101
+      npc_male_2_spritesheet_1: -2008622405
+      npc_male_2_spritesheet_10: 874324388
+      npc_male_2_spritesheet_100: 37354862
+      npc_male_2_spritesheet_101: -1306216670
+      npc_male_2_spritesheet_102: -67199036
+      npc_male_2_spritesheet_103: 1868246076
+      npc_male_2_spritesheet_104: -764854524
+      npc_male_2_spritesheet_105: -1122698716
+      npc_male_2_spritesheet_106: 84442061
+      npc_male_2_spritesheet_107: -1255025554
+      npc_male_2_spritesheet_108: -984790640
+      npc_male_2_spritesheet_109: 413267376
+      npc_male_2_spritesheet_11: 1589850687
+      npc_male_2_spritesheet_110: 1664037352
+      npc_male_2_spritesheet_111: 401051802
+      npc_male_2_spritesheet_112: -1878448934
+      npc_male_2_spritesheet_113: 1454598205
+      npc_male_2_spritesheet_114: 27692945
+      npc_male_2_spritesheet_115: -318195340
+      npc_male_2_spritesheet_116: -62839063
+      npc_male_2_spritesheet_117: 1405494031
+      npc_male_2_spritesheet_118: -883837561
+      npc_male_2_spritesheet_119: 510198422
+      npc_male_2_spritesheet_12: -1133481448
+      npc_male_2_spritesheet_120: 1521971905
+      npc_male_2_spritesheet_121: 873697874
+      npc_male_2_spritesheet_122: 943158713
+      npc_male_2_spritesheet_123: 1400750658
+      npc_male_2_spritesheet_124: -620832641
+      npc_male_2_spritesheet_125: 478857869
+      npc_male_2_spritesheet_126: -851694626
+      npc_male_2_spritesheet_127: -71044229
+      npc_male_2_spritesheet_128: 469778162
+      npc_male_2_spritesheet_129: 2031185550
+      npc_male_2_spritesheet_13: 227940130
+      npc_male_2_spritesheet_130: 465241449
+      npc_male_2_spritesheet_131: 1861013102
+      npc_male_2_spritesheet_132: -1213456562
+      npc_male_2_spritesheet_133: 301168492
+      npc_male_2_spritesheet_134: -231516250
+      npc_male_2_spritesheet_135: -2079918571
+      npc_male_2_spritesheet_136: -886482350
+      npc_male_2_spritesheet_137: -1410223183
+      npc_male_2_spritesheet_138: 1464522154
+      npc_male_2_spritesheet_139: 3478023
+      npc_male_2_spritesheet_14: -88717425
+      npc_male_2_spritesheet_140: -1418276286
+      npc_male_2_spritesheet_141: 218874800
+      npc_male_2_spritesheet_142: -1498289789
+      npc_male_2_spritesheet_143: 2106449380
+      npc_male_2_spritesheet_144: 1745443123
+      npc_male_2_spritesheet_145: 691695111
+      npc_male_2_spritesheet_146: 974536432
+      npc_male_2_spritesheet_147: 11283812
+      npc_male_2_spritesheet_148: 410350041
+      npc_male_2_spritesheet_149: -235731408
+      npc_male_2_spritesheet_15: -1261829516
+      npc_male_2_spritesheet_150: -1476319744
+      npc_male_2_spritesheet_151: 355863161
+      npc_male_2_spritesheet_152: 131502579
+      npc_male_2_spritesheet_153: 1463583504
+      npc_male_2_spritesheet_154: 2143902001
+      npc_male_2_spritesheet_155: -1248198496
+      npc_male_2_spritesheet_156: 2028698066
+      npc_male_2_spritesheet_157: 433668762
+      npc_male_2_spritesheet_158: 765915342
+      npc_male_2_spritesheet_159: 1914816786
+      npc_male_2_spritesheet_16: 764889015
+      npc_male_2_spritesheet_160: -1630358248
+      npc_male_2_spritesheet_161: 1141922160
+      npc_male_2_spritesheet_162: -495783256
+      npc_male_2_spritesheet_163: -667795720
+      npc_male_2_spritesheet_164: -2042695826
+      npc_male_2_spritesheet_165: -1630527310
+      npc_male_2_spritesheet_166: 1245711382
+      npc_male_2_spritesheet_167: -1020183399
+      npc_male_2_spritesheet_168: 1765502084
+      npc_male_2_spritesheet_169: -1713753576
+      npc_male_2_spritesheet_17: -2100788147
+      npc_male_2_spritesheet_170: 100706840
+      npc_male_2_spritesheet_171: 1515565538
+      npc_male_2_spritesheet_172: 1117991423
+      npc_male_2_spritesheet_173: 1687548111
+      npc_male_2_spritesheet_174: -1365042674
+      npc_male_2_spritesheet_175: 48113097
+      npc_male_2_spritesheet_176: 1616848055
+      npc_male_2_spritesheet_177: 1923200698
+      npc_male_2_spritesheet_178: 2132600426
+      npc_male_2_spritesheet_179: 765329675
+      npc_male_2_spritesheet_18: 1218460983
+      npc_male_2_spritesheet_180: 702801335
+      npc_male_2_spritesheet_181: 1394925408
+      npc_male_2_spritesheet_182: 1401678162
+      npc_male_2_spritesheet_183: 1031265026
+      npc_male_2_spritesheet_184: -106288356
+      npc_male_2_spritesheet_185: -970410880
+      npc_male_2_spritesheet_186: -1963806529
+      npc_male_2_spritesheet_187: 1353311912
+      npc_male_2_spritesheet_188: -1457026240
+      npc_male_2_spritesheet_189: 2042000164
+      npc_male_2_spritesheet_19: -1748199578
+      npc_male_2_spritesheet_190: -939243937
+      npc_male_2_spritesheet_191: 1534652328
+      npc_male_2_spritesheet_192: -31769442
+      npc_male_2_spritesheet_193: 912686718
+      npc_male_2_spritesheet_194: -2116903469
+      npc_male_2_spritesheet_195: -751916412
+      npc_male_2_spritesheet_196: 833211297
+      npc_male_2_spritesheet_197: -2077036602
+      npc_male_2_spritesheet_198: 803583629
+      npc_male_2_spritesheet_199: 687403284
+      npc_male_2_spritesheet_2: -1481867739
+      npc_male_2_spritesheet_20: -1988005571
+      npc_male_2_spritesheet_200: -1863278680
+      npc_male_2_spritesheet_201: -1973110199
+      npc_male_2_spritesheet_202: 41387433
+      npc_male_2_spritesheet_203: 1321954972
+      npc_male_2_spritesheet_204: 2039294763
+      npc_male_2_spritesheet_205: -367083856
+      npc_male_2_spritesheet_206: 403638492
+      npc_male_2_spritesheet_207: -653342040
+      npc_male_2_spritesheet_208: 280445028
+      npc_male_2_spritesheet_209: 2005359889
+      npc_male_2_spritesheet_21: -2022725704
+      npc_male_2_spritesheet_210: 1239246534
+      npc_male_2_spritesheet_211: 103805654
+      npc_male_2_spritesheet_212: -974595080
+      npc_male_2_spritesheet_213: 1664566640
+      npc_male_2_spritesheet_214: -1995877575
+      npc_male_2_spritesheet_215: -443050670
+      npc_male_2_spritesheet_216: -964212869
+      npc_male_2_spritesheet_217: -123585606
+      npc_male_2_spritesheet_218: -370915706
+      npc_male_2_spritesheet_219: 342491034
+      npc_male_2_spritesheet_22: 483456622
+      npc_male_2_spritesheet_220: -112331635
+      npc_male_2_spritesheet_221: -1943624990
+      npc_male_2_spritesheet_222: 1729776262
+      npc_male_2_spritesheet_223: -1403617393
+      npc_male_2_spritesheet_224: 1225549200
+      npc_male_2_spritesheet_225: -1119323962
+      npc_male_2_spritesheet_226: 2025987338
+      npc_male_2_spritesheet_227: 608993593
+      npc_male_2_spritesheet_228: -1687066390
+      npc_male_2_spritesheet_229: -2025617497
+      npc_male_2_spritesheet_23: -1512383917
+      npc_male_2_spritesheet_24: -1811332651
+      npc_male_2_spritesheet_25: 654362932
+      npc_male_2_spritesheet_26: -1331862103
+      npc_male_2_spritesheet_27: 1913947764
+      npc_male_2_spritesheet_28: 1091500040
+      npc_male_2_spritesheet_29: -886937263
+      npc_male_2_spritesheet_3: 2079508988
+      npc_male_2_spritesheet_30: 1840636913
+      npc_male_2_spritesheet_31: -1421851689
+      npc_male_2_spritesheet_32: 1907738853
+      npc_male_2_spritesheet_33: 2026262352
+      npc_male_2_spritesheet_34: 681858749
+      npc_male_2_spritesheet_35: 1682373115
+      npc_male_2_spritesheet_36: 1942113842
+      npc_male_2_spritesheet_37: 1782116527
+      npc_male_2_spritesheet_38: 588054103
+      npc_male_2_spritesheet_39: -893009463
+      npc_male_2_spritesheet_4: -136426602
+      npc_male_2_spritesheet_40: 1477094115
+      npc_male_2_spritesheet_41: 666955090
+      npc_male_2_spritesheet_42: -1214660879
+      npc_male_2_spritesheet_43: -361884693
+      npc_male_2_spritesheet_44: 1178110930
+      npc_male_2_spritesheet_45: -1727249111
+      npc_male_2_spritesheet_46: -1423118722
+      npc_male_2_spritesheet_47: -1017763108
+      npc_male_2_spritesheet_48: 1352611904
+      npc_male_2_spritesheet_49: 615093979
+      npc_male_2_spritesheet_5: 841820161
+      npc_male_2_spritesheet_50: -1722509982
+      npc_male_2_spritesheet_51: 157517984
+      npc_male_2_spritesheet_52: -742337406
+      npc_male_2_spritesheet_53: -1203345752
+      npc_male_2_spritesheet_54: -1299445460
+      npc_male_2_spritesheet_55: -1717092262
+      npc_male_2_spritesheet_56: -1210229609
+      npc_male_2_spritesheet_57: 1421145864
+      npc_male_2_spritesheet_58: -1334117528
+      npc_male_2_spritesheet_59: 412481822
+      npc_male_2_spritesheet_6: 1655359614
+      npc_male_2_spritesheet_60: -1400514500
+      npc_male_2_spritesheet_61: -27761532
+      npc_male_2_spritesheet_62: 778592585
+      npc_male_2_spritesheet_63: -171984099
+      npc_male_2_spritesheet_64: 1837005177
+      npc_male_2_spritesheet_65: 70146889
+      npc_male_2_spritesheet_66: 1723260742
+      npc_male_2_spritesheet_67: -1516603392
+      npc_male_2_spritesheet_68: -1971799943
+      npc_male_2_spritesheet_69: -1473916799
+      npc_male_2_spritesheet_7: -570894049
+      npc_male_2_spritesheet_70: 355734090
+      npc_male_2_spritesheet_71: -2119964944
+      npc_male_2_spritesheet_72: -1824636393
+      npc_male_2_spritesheet_73: -1041832812
+      npc_male_2_spritesheet_74: 2036497353
+      npc_male_2_spritesheet_75: -502193291
+      npc_male_2_spritesheet_76: 1842856577
+      npc_male_2_spritesheet_77: -1592920080
+      npc_male_2_spritesheet_78: 444453927
+      npc_male_2_spritesheet_79: 1678007037
+      npc_male_2_spritesheet_8: -1971809692
+      npc_male_2_spritesheet_80: -784519694
+      npc_male_2_spritesheet_81: -1374913788
+      npc_male_2_spritesheet_82: 501854822
+      npc_male_2_spritesheet_83: -870747336
+      npc_male_2_spritesheet_84: 1042058683
+      npc_male_2_spritesheet_85: -1735758032
+      npc_male_2_spritesheet_86: -1843346737
+      npc_male_2_spritesheet_87: -152847377
+      npc_male_2_spritesheet_88: 683708903
+      npc_male_2_spritesheet_89: -1998293879
+      npc_male_2_spritesheet_9: -560189371
+      npc_male_2_spritesheet_90: 1568546401
+      npc_male_2_spritesheet_91: 1253808106
+      npc_male_2_spritesheet_92: -21938017
+      npc_male_2_spritesheet_93: -1590208889
+      npc_male_2_spritesheet_94: -881423480
+      npc_male_2_spritesheet_95: 283116102
+      npc_male_2_spritesheet_96: 1529833772
+      npc_male_2_spritesheet_97: -1961219489
+      npc_male_2_spritesheet_98: 1111302139
+      npc_male_2_spritesheet_99: 1163435911
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
